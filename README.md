@@ -1,0 +1,2 @@
+# SimpleNeuralNetFromScratch
+Following Samson Zhang
